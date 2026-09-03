@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>people.png</file>
+        <file>recycle.png</file>
+        <file>folder.png</file>
+    </qresource>
+    <qresource prefix="/data">
+        <file>icdCodes.txt</file>
+        <file>stay.json</file>
+        <file>opsCodes.txt</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,123 @@
+[
+    {
+        "admissionDate":"20250802",
+        "dischargeDate":"20250810",
+        "mainDiagnosis":"I21.9",
+        "firstName":"Haruki",
+        "lastName":"Murakami",
+        "birthDate":"19520331",
+        "insuranceNumber":"P4468210545156865583",
+        "gender":"M",
+        "departmentType": 1
+    },
+    {
+        "admissionDate":"20260612",
+        "dischargeDate":"",
+        "mainDiagnosis":"S83.50",
+        "firstName":"Selma",
+        "lastName":"Lagerlöf",
+        "birthDate":"19680413",
+        "insuranceNumber":"X2714658379916081618",
+        "gender":"W",
+        "departmentType": 3
+    },
+    {
+        "admissionDate":"20260303",
+        "dischargeDate":"20260305",
+        "mainDiagnosis":"R50.80",
+        "firstName":"Toni",
+        "lastName":"Morrison",
+        "birthDate":"19711102",
+        "insuranceNumber":"I6923876642018592802",
+        "gender":"W",
+        "departmentType": 2
+    },
+    {
+        "admissionDate":"20250903",
+        "dischargeDate":"20250908",
+        "mainDiagnosis":"M16.1",
+        "firstName":"Theodor",
+        "lastName":"Fontane",
+        "birthDate":"19430111",
+        "insuranceNumber":"U6257969439481234180",
+        "gender":"M",
+        "departmentType": 3
+    },
+    {
+        "admissionDate":"20260613",
+        "dischargeDate":"",
+        "mainDiagnosis":"I21.9",
+        "firstName":"Robertson",
+        "lastName":"Davies",
+        "birthDate":"19530714",
+        "insuranceNumber":"L7073364310375092907",
+        "gender":"M",
+        "departmentType": 1
+    },
+    {
+        "admissionDate":"20260617",
+        "dischargeDate":"",
+        "mainDiagnosis":"S52.9",
+        "firstName":"Toni",
+        "lastName":"Morrison",
+        "birthDate":"19711102",
+        "insuranceNumber":"I6923876642018592802",
+        "gender":"W",
+        "departmentType": 3
+    },
+    {
+        "admissionDate":"20260402",
+        "dischargeDate":"20260427",
+        "mainDiagnosis":"C95.0-",
+        "firstName":"Grazia",
+        "lastName":"Deledda",
+        "birthDate":"19820701",
+        "insuranceNumber":"W0256034634225438078",
+        "gender":"W",
+        "departmentType": 4
+    },
+    {
+        "admissionDate":"20251130",
+        "dischargeDate":"20251202",
+        "mainDiagnosis":"R10.0",
+        "firstName":"John",
+        "lastName":"Irving",
+        "birthDate":"19820701",
+        "insuranceNumber":"I1853933956483282508",
+        "gender":"M",
+        "departmentType": 5
+    },
+    {
+        "admissionDate":"20251203",
+        "dischargeDate":"20251216",
+        "mainDiagnosis":"C25.0",
+        "firstName":"John",
+        "lastName":"Irving",
+        "birthDate":"19820701",
+        "insuranceNumber":"I1853933956483282508",
+        "gender":"M",
+        "departmentType": 4
+    },
+    {
+        "admissionDate":"20260420",
+        "dischargeDate":"",
+        "mainDiagnosis":"C81.2",
+        "firstName":"Jane",
+        "lastName":"Austen",
+        "birthDate":"19720229",
+        "insuranceNumber":"P5364209910896743107",
+        "gender":"W",
+        "departmentType": 4
+    },
+    {
+        "admissionDate":"20260211",
+        "dischargeDate":"20260216",
+        "mainDiagnosis":"I20.0",
+        "firstName":"Robertson",
+        "lastName":"Davies",
+        "birthDate":"19530714",
+        "insuranceNumber":"L7073364310375092907",
+        "gender":"M",
+        "departmentType": 1
+    }
+]
