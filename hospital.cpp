@@ -10,7 +10,7 @@
 #include <QDate>
 
 #include "generalsurgery.h"
-#include "cardiology.h"
+#include "cardiology\cardiology.h"
 #include "internalmedicine.h"
 #include "orthopedics.h"
 #include "oncology.h"

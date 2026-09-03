@@ -2,7 +2,7 @@
 #include "department.h"
 // Include all 6 sub-classes
 #include "generalsurgeryinfo.h"
-#include "cardiologyinfo.h"
+#include "cardiology\cardiologyinfo.h"
 #include "internalmedicineinfo.h"
 #include "orthopedicsinfo.h"
 #include "oncologyinfo.h"

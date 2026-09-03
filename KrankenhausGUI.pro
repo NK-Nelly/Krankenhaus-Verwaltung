@@ -8,8 +8,8 @@ CONFIG += c++17
 #DEFINES += QT_DISABLE_DEPRECATED_BEFORE=0x060000    # disables all the APIs deprecated before Qt 6.0.0
 
 SOURCES += \
-    cardiology.cpp \
-    cardiologyinfo.cpp \
+    cardiology\cardiology.cpp \
+    cardiology\cardiologyinfo.cpp \
     department.cpp \
     gastroenterology.cpp \
     gastroenterologyinfo.cpp \
@@ -29,8 +29,8 @@ SOURCES += \
 
 HEADERS += \
     Gender.h \
-    cardiology.h \
-    cardiologyinfo.h \
+    cardiology\cardiology.h \
+    cardiology\cardiologyinfo.h \
     clinicalInfo.h \
     department.h \
     departmentType.h \
