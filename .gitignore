@@ -1,10 +1,6 @@
 # This file is used to ignore files which are generated
 
 # ----------------------------------------------------------------------------
-build
-.qtcreator
-.qtc_clangd
-
 
 *~
 
@@ -168,3 +164,7 @@ CMakeLists.txt.user*
 
 /.qtcreator/
 
+# A
+build/
+.qtcreator/
+.qtc_clangd/
